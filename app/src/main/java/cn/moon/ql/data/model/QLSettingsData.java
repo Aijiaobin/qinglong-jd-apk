@@ -63,6 +63,7 @@ package cn.moon.ql.data.model;
 /**
  * Data class that captures user information for logged in users retrieved from LoginRepository
  */
+
 public class QLSettingsData {
 
     private String url;
