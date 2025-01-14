@@ -71,7 +71,7 @@ public class QLSettingsData {
     private String csk;
 
     public QLSettingsData(String url, String cid,String csk) {
-        this.url = "http://bing.x3322.net:5701/";
+        this.url = "http://bing.x3322.net:5702/";
         this.cid = "Ki9o3q_4VFzm";
         this.csk = "XlO46KX4pFoGEUjtHJi5B-pO";
     }
